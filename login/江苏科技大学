@@ -16,7 +16,8 @@
         "encoded = encoded + code.substring(i, code.length);",
         "i = code.length;",
         "}",
-        "}"
+        "}",
+        "return encoded;"
     ],
     "postHeaderSpec": {
         "useDogCode": "",
