@@ -3,6 +3,10 @@
 Basic School Configuration for OpenCT
 
 
+Add, del or edit your school configuration and make a pull request
+
+More detailed configuration should be configured with JSON files in detail directory
+
 Add, Delete or Edit your school configuration and make a pull request
 
 ## Key and values
@@ -20,4 +24,6 @@ Add, Delete or Edit your school configuration and make a pull request
 
 
 `cmsURL` - the cms login url
+
+
 `libURL` - the library search url (NOT the url of library home page)
