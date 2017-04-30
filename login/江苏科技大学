@@ -4,7 +4,7 @@
     "extraLoginPartURL": "Logon.do?method=logon&flag=sess",
     "fetchExtraMethod": "POST",
     "script": [
-        "var scode = extra.split(\"#\")[0];",
+        "var scode = extraPart.split(\"#\")[0];",
         "var sxh = extraPart.split(\"#\")[1];",
         "var code=username+'%%%'+password;",
         "var encoded='';",
