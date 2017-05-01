@@ -19,7 +19,7 @@
         "}",
         "return encoded;"
     ],
-    "postHeaderSpec": {
+    "postKeyValueSpec": {
         "useDogCode": "",
         "encoded": "{POST_CONTENT}",
         "RANDOMCODE": "{CAPTCHA_CODE}"
