@@ -1050,5 +1050,12 @@
     "name":"河北工程大学",
     "cmsSys":"urp",
     "cmsURL":"http://202.206.161.174:9080/"
+  },
+  {
+    "name":"杭州电子科技大学",
+    "cmsSys":"zfsoft",
+    "cmsURL":"http://jxgl.hdu.edu.cn",
+    "libSys":"custom",
+    "libURL":"http://222.29.81.175/350400/"
   }
 ]
