@@ -1059,6 +1059,11 @@
     "libURL":"http://222.29.81.175/350400/"
   },
   {
+    "name":"嘉应学院",
+    "cmsSys":"zfsoft",
+    "cmsURL":"http://210.38.162.116"
+  },
+  {
     "name":"临沂大学",
     "cmsSys":"qzdatasoft",
     "cmsURL":"http://jwxt.lyu.edu.cn/jxd/",
