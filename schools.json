@@ -1,5 +1,12 @@
 [
   {
+    "name":"长沙理工大学",
+    "cmsSys":"kingosoft",
+    "cmsURL":"http://xk.csust.edu.cn:8080/",
+    "libSys":"custom",
+    "libURL":"http://www.csust.edu.cn/tsg/index.htm"
+  },
+  {
     "name":"中山大学",
     "cmsSys":"custom",
     "cmsURL":"http://uems.sysu.edu.cn/jwxt/",
