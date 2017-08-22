@@ -1076,5 +1076,10 @@
     "cmsURL":"http://jwxt.lyu.edu.cn/jxd/",
     "libSys":"njhuiwen",
     "libURL":"http://211.64.241.118:8080/"
+  },
+  {
+    "name":"重庆第二师范学院",
+    "cmsSys":"zfsoft",
+    "cmsURL":"http://183.230.3.6"
   }
 ]
