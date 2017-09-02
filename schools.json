@@ -1081,5 +1081,12 @@
     "name":"重庆第二师范学院",
     "cmsSys":"zfsoft",
     "cmsURL":"http://183.230.3.6"
+  },
+  {
+    "name":"桂林电子科技大学",
+    "cmsSys":"custom",
+    "cmsURL":"http://bkjw2.guet.edu.cn/student/public/login.asp",
+    "libSys":"wordpress",
+    "libURL":"http://lib.guet.cn"
   }
 ]
