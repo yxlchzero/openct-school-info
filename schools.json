@@ -1,5 +1,12 @@
 [
   {
+    "name":"湘潭大学",
+    "cmsSys":"custom",
+    "cmsURL":"http://jwxt.xtu.edu.cn/",
+    "libSys":"custom",
+    "libURL":"http://202.197.232.4:8081/opac_two/search2/search.jsp"
+  },
+  {
     "name":"长沙理工大学",
     "cmsSys":"kingosoft",
     "cmsURL":"http://xk.csust.edu.cn:8080/",
