@@ -1090,8 +1090,15 @@
     "cmsURL":"http://183.230.3.6"
   },
   {
+    "name":"桂林电子科技大学",
+    "cmsSys":"custom",
+    "cmsURL":"http://bkjw2.guet.edu.cn/student/public/login.asp",
+    "libSys":"wordpress",
+    "libURL":"http://202.193.70.138/index.aspx"
+  },
+  {
     "name":"河南理工大学",
     "cmsSys":"urp",
     "cmsURL":"http://218.196.240.97:80"
-  },
+  }
 ]
